@@ -6,7 +6,7 @@ collections:
   authors:
     output: true
 
-theme: garth-jekyll-theme
+# theme: garth-jekyll-theme
 # Site configuration
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
