@@ -16,6 +16,6 @@ Relaunching Erika's Husband's ;) blog era with **Jekyll**.
 ---
 
 ## To Do
-
-- rant
+- subscribers
+- comment section
 ---
