@@ -1,18 +1,20 @@
-// Classy white, gray, and red color scheme
-$white: #ffffff;
-$black: #333333;
-$red: red;
-$lightGray: #f1f3f4;  // Slightly darker light gray
-$mediumGray: #6c757d;
-$darkGray: #495057;
+// Warm, earthy, cozy color scheme - inspired by minimal, natural aesthetics
+$white: #faf8f5;          // Warm off-white/cream
+$black: #2a2a2a;          // Soft black
+$cream: #f5f1ed;          // Light cream background
+$sage: #8b9b7d;           // Muted sage green - for buttons and accents
+$warmBrown: #6b5b4d;      // Warm brown - secondary accent
+$lightGray: #e8e4e0;      // Light warm gray
+$mediumGray: #9c9592;     // Medium warm gray
+$darkGray: #5a5450;       // Dark warm gray
 
 // Theme color assignments
-$backgroundColour: $white;
+$backgroundColour: $cream;
 $bodyColour: $black;
-$linkColour: $red;
-$hoverColour: darken($red, 15%);
-$focusColour: $red;
+$linkColour: $sage;
+$hoverColour: darken($sage, 10%);
+$focusColour: $sage;
 $captionColour: $mediumGray;
 $headingColour: $black;
-$accentColour: $red;
+$accentColour: $sage;
 $codeColour: $darkGray;
