@@ -1,22 +1,89 @@
 baseurl: "/ErikasBlog"   # place folder name if the site is served in a subfolder
-url: "https://eezife-wustl.github.io"
+url: "https://erika-ez.github.io"
 
 collections:
   authors:
     output: true
 
+theme: garth-jekyll-theme
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- garth-jekyll-theme.gemspec
+
+# 2. Installed Gems
+plugins:
+- jekyll-paginate
+
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: page:num # jekyll-paginate > blog page
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Blog # Needed for Siteleaf
+    output: true
+    description: "Inside the mind of Erika's Husband" # The post list page content
+
+# 6. Jekyll collections settings
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
-      type: "authors"
+      type: pages
     values:
-      layout: "authors"
-  - scope:
+      layout: page # Default layout
+  -
+    scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+      layout: post # Default layout
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "Erika's Husband" # Site name or title
+# logo: "/assets/logo.svg" # Site logo
+# favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
+description: "In my kitchen" # Site description and default description
+baseurl: ""
+lang: en-US
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "authors"
+#     values:
+#       layout: "authors"
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#   - scope:
+#       path: ""
+#     values:
+#       layout: "default"

@@ -1,0 +1,18 @@
+// Classy white, gray, and red color scheme
+$white: #ffffff;
+$black: #333333;
+$red: red;
+$lightGray: #f1f3f4;  // Slightly darker light gray
+$mediumGray: #6c757d;
+$darkGray: #495057;
+
+// Theme color assignments
+$backgroundColour: $white;
+$bodyColour: $black;
+$linkColour: $red;
+$hoverColour: darken($red, 15%);
+$focusColour: $red;
+$captionColour: $mediumGray;
+$headingColour: $black;
+$accentColour: $red;
+$codeColour: $darkGray;

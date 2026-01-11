@@ -1,0 +1,22 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&family=Explora&family=Sacramento&family=Sirivennela&family=Waterfall&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/styles.css">
+<nav class="nav">
+  <ul class="list list--nav">
+    {% for item in site.pages %}
+      {% unless item.title == false or item.url contains "/page" or item.url contains "/404.html" or item.url contains "/feed." %}
+        <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+          {% if item.collectionpage %}
+            {% assign collectiondata = site.collections | where: "label", item.collectionpage | first %}
+            <a href="{{ site.baseurl }}{{ item.url }}">{{ collectiondata.title }}</a>
+          {% elsif item.title contains "Husband" %}
+            <p><a href="{{ site.baseurl }}{{ item.url }}" class="Erika-Branding">{{ item.title }}</a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+          {% endif %}
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</nav>
