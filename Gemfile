@@ -7,4 +7,3 @@ gem "jekyll"
 gem "github-pages", "~> 232", group: :jekyll_plugins
 gem "garth-jekyll-theme"
 gem 'tzinfo-data'
-gem "jekyll-remote-theme"
