@@ -19,5 +19,3 @@ Relaunching Erika's Husband's ;) blog era with **Jekyll**.
 
 - rant
 ---
-
-## Maybe Helpful Snippet
