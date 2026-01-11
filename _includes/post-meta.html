@@ -12,4 +12,5 @@
 
 <small class="small  post-meta">
   {{ categories | append: "&nbsp;&middot;&nbsp;" }}<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date_to_string }}</time>
+  <span> | {{page.author}}</span>
 </small>
