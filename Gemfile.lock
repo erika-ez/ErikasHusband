@@ -285,6 +285,7 @@ DEPENDENCIES
   garth-jekyll-theme
   github-pages (~> 232)
   jekyll
+  jekyll-remote-theme
   tzinfo-data
 
 BUNDLED WITH

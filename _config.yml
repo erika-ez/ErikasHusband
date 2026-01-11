@@ -1,5 +1,6 @@
-baseurl: "/ErikasBlog"   # place folder name if the site is served in a subfolder
+baseurl: "/ErikasHusband"   # place folder name if the site is served in a subfolder
 url: "https://erika-ez.github.io"
+remote_theme: daviddarnes/garth
 
 collections:
   authors:
@@ -30,6 +31,7 @@ exclude:
 # 2. Installed Gems
 plugins:
 - jekyll-paginate
+- jekyll-remote-theme
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
