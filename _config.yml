@@ -26,7 +26,6 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
-- garth-jekyll-theme.gemspec
 
 # 2. Installed Gems
 plugins:
