@@ -1,5 +1,6 @@
-baseurl: "/ErikasHusband"   # place folder name if the site is served in a subfolder
-url: "https://erika-ez.github.io"
+# baseurl: "/ErikasHusband"   # place folder name if the site is served in a subfolder
+# url: "https://erika-ez.github.io"
+url: "erikashusband.blog"
 remote_theme: daviddarnes/garth
 
 collections:
