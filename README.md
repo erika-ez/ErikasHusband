@@ -21,4 +21,6 @@ Relaunching Erika's Husband's ;) blog era with **Jekyll**.
 - https://thiagoalves.ai/adding-comments-to-jekyll-using-giscus/
 https://www.nymanska.com/posts/Giscus-comments/
 https://pabloaizpiri.com/blog/2023/setting-up-giscus-on-jekyll/
+- display more posts per page
+- easy access to older posts
 ---
