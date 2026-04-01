@@ -72,9 +72,9 @@ defaults:
 # Paste the data-repo-id and data-category-id values from giscus.app below
 giscus:
   repo: "erika-ez/ErikasHusband"
-  repo_id: "REPLACE_WITH_REPO_ID"
-  category: "General"
-  category_id: "REPLACE_WITH_CATEGORY_ID"
+  repo_id: "R_kgDONXkXSQ"
+  category: "Announcements"
+  category_id: "DIC_kwDONXkXSc4C5wM3"
   mapping: "pathname"
   theme: "light"
 

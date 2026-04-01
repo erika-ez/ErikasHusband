@@ -2,7 +2,7 @@
 .sidebar {
   padding: 0 0 1rem;
 
-  @include breakpoint(break-1) {
+  @media screen and (min-width: 40em) {
     width: 270px;
     flex-shrink: 0;
     margin-left: 2rem;
