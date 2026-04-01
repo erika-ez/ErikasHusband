@@ -35,7 +35,7 @@ plugins:
 - jekyll-remote-theme
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 10 # jekyll-paginate > items per page
 paginate_path: page:num # jekyll-paginate > blog page
 
 # 4. Jekyll settings
@@ -68,6 +68,16 @@ defaults:
       layout: post # Default layout
 
 # 7. Site settings
+# Giscus comments — configure at https://giscus.app using repo: erika-ez/ErikasHusband
+# Paste the data-repo-id and data-category-id values from giscus.app below
+giscus:
+  repo: "erika-ez/ErikasHusband"
+  repo_id: "REPLACE_WITH_REPO_ID"
+  category: "General"
+  category_id: "REPLACE_WITH_CATEGORY_ID"
+  mapping: "pathname"
+  theme: "light"
+
 encoding: utf-8 # Make sure the encoding is right
 title: "Erika's Husband" # Site name or title
 # logo: "/assets/logo.svg" # Site logo

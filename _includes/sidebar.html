@@ -1,0 +1,23 @@
+<div class="sidebar-widget">
+  <h3 class="sidebar-heading">Archive</h3>
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year_group in posts_by_year %}
+    <details class="archive-year" open>
+      <summary>{{ year_group.name }}</summary>
+      {% assign posts_by_month = year_group.items | group_by_exp: "post", "post.date | date: '%B'" %}
+      {% for month_group in posts_by_month %}
+        <details class="archive-month">
+          <summary>{{ month_group.name }} <span class="archive-count">({{ month_group.items | size }})</span></summary>
+          <ul class="archive-post-list">
+            {% for post in month_group.items %}
+              <li>
+                <span class="archive-date">{{ post.date | date: "%-d" }}</span>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </details>
+      {% endfor %}
+    </details>
+  {% endfor %}
+</div>

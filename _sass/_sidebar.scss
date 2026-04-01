@@ -1,0 +1,129 @@
+// Sidebar
+.sidebar {
+  padding: 0 0 1rem;
+
+  @include breakpoint(break-1) {
+    width: 270px;
+    flex-shrink: 0;
+    margin-left: 2rem;
+  }
+}
+
+.sidebar-widget {
+  background: darken($backgroundColour, 4%);
+  border: 1px solid darken($backgroundColour, 12%);
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  position: sticky;
+  top: 1rem;
+}
+
+.sidebar-heading {
+  font-family: "Neuton", serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: $headingColour;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid darken($backgroundColour, 12%);
+}
+
+.archive-year {
+  margin-bottom: 0.4rem;
+
+  > summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: $bodyColour;
+    font-size: 0.9em;
+    padding: 0.2rem 0;
+    list-style: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      content: '\25B6  ';
+      font-size: 0.65em;
+      vertical-align: middle;
+    }
+  }
+
+  &[open] > summary::before {
+    content: '\25BC  ';
+  }
+}
+
+.archive-month {
+  margin: 0.15rem 0 0.15rem 0.6rem;
+
+  > summary {
+    cursor: pointer;
+    color: $bodyColour;
+    font-size: 0.85em;
+    padding: 0.15rem 0;
+    list-style: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      content: '\25B6  ';
+      font-size: 0.6em;
+      vertical-align: middle;
+    }
+  }
+
+  &[open] > summary::before {
+    content: '\25BC  ';
+  }
+}
+
+.archive-count {
+  color: $captionColour;
+  font-size: 0.85em;
+}
+
+.archive-post-list {
+  list-style: none;
+  margin: 0.2rem 0 0.3rem 0.6rem;
+
+  li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    margin: 0;
+    padding: 0.1rem 0;
+  }
+
+  a {
+    font-size: 0.8em;
+    color: $linkColour;
+    line-height: 1.4;
+
+    &:hover {
+      color: $hoverColour;
+    }
+  }
+}
+
+.archive-date {
+  font-size: 0.75em;
+  color: $captionColour;
+  flex-shrink: 0;
+  min-width: 1.4em;
+  text-align: right;
+}
+
+// Comments section
+.comments-section {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid darken($backgroundColour, 12%);
+  width: 100%;
+}
+
+.comments-heading {
+  font-family: "Neuton", serif;
+  font-size: 1.2rem;
+  color: $headingColour;
+  margin-bottom: 1rem;
+}
