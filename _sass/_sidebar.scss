@@ -113,6 +113,12 @@
   text-align: right;
 }
 
+// Post page wrapper — keeps article and comments stacked in the flex .main row
+.post-wrapper {
+  flex: 1;
+  min-width: 0;
+}
+
 // Comments section
 .comments-section {
   margin-top: 2rem;
