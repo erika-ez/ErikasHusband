@@ -1,0 +1,32 @@
+{% if paginator.posts %}
+
+  <ul class="list  list--posts">
+    {% for page in paginator.posts %}
+      <li class="item  item--post">
+        <article class="article  article--post  typeset">
+          <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
+          {% include post-meta.html %}
+          {{ page.excerpt | markdownify | truncatewords: 60 }}{% if page.content.size > 60 %}<a href="{{ page.url | relative_url }}"> [Continue reading →] </a>{% endif %}
+          <hr style="margin:0">
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+  {% include post-pagination.html %}
+
+{% else %}
+
+  <ul class="list  list--posts">
+    {% for page in site.posts %}
+      <li class="item  item--post">
+        <article class="article  article--post  typeset">
+          <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
+          {% include post-meta.html %}
+          {{ page.excerpt | markdownify | truncatewords: 60 }}{% if page.content.size > 60 %}<a href="{{ page.url | relative_url }}"> [Continue reading →] </a>{% endif %}
+          <hr style="margin:0">
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+
+{% endif %}
