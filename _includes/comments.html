@@ -1,18 +1,17 @@
 <section class="comments-section">
   <h3 class="comments-heading">Comments</h3>
-  <script src="https://giscus.app/client.js"
-    data-repo="{{ site.giscus.repo }}"
-    data-repo-id="{{ site.giscus.repo_id }}"
-    data-category="{{ site.giscus.category }}"
-    data-category-id="{{ site.giscus.category_id }}"
-    data-mapping="{{ site.giscus.mapping | default: 'pathname' }}"
-    data-strict="0"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-input-position="bottom"
-    data-theme="{{ site.giscus.theme | default: 'light' }}"
-    data-lang="en"
-    crossorigin="anonymous"
-    async>
+  <div id="disqus_thread"></div>
+  <script>
+      var disqus_config = function () {
+      this.page.url = "{{ site.url }}{{ page.url }}";
+      this.page.identifier = "{{ page.id }}";
+      };
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://erikas-husband.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
   </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </section>
