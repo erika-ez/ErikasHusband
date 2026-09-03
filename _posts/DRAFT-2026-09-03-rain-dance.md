@@ -1,7 +1,7 @@
 title: write about the rain
 
-what can i say about rain. i don't like it
-i don't like how it sticks to my hair
+What can I say about rain? I'm not a fan. The whole experience of a rainy day is sensory overload. I don't like how it sticks to my hair. How it lands directly on the lens of my glasses and causes an impossible blur. I can't see out my rearview mirror because back window doesn't have a wiper. The roads are slick. If I don't have an umbrella my clothes become soaking wet and heavy. If I do have an umbrella, it gets all wet and I don't know where to put it when I walk into say, a restaurant or a library. Put it on the floor, now that's soaked too. Can't put it on a chair. Don't want to hold it. And umbrellas are such awkward items, they don't quite fit in a bag, and if they do, they're not big enough to stop the rain from coating you. And I hate stepping in wet mud or puddles, it dirties my shoes (my lovely velvet docs don't deserve such treatment) and if I'm really unlucky, my socks get wet, and there is nothing worse than the feeling of wet socks. If you wanted to torture me in way that' completely harmless yet excruciatingly uncomfortable: Force me to walk a long, but not too long, distance without an umbrella, in the pouring rain, and my socks are wet, and my hair is wet, and my bra is so tight the underwire is creating an imprint in my chest, and my glasses are smudged, and my pants are too short, and it's just a little too hot, and surely too humid, and my phone keeps ringing, and I can't find my keys, etc, etc, etc.
+
 and blurs my glasses
 snow is pretty, snow moves slowly through the air enough that i cannot be overwhelmed by the pitter patter and the splashes
 and the hail while little missles is at least an interesting phenomenon
