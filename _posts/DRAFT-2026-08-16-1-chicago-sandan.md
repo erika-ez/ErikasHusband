@@ -34,7 +34,9 @@ My sister and I were supposed to go to an event for UIU, but my stomach told me 
 ***
 
 The next day, my sister and I were up bright and early to make brunch at the McCormick place. We're paying for the event, so we had to maximize the free meals we were owed. While brunch was mediocre, I did meet my daily talk-to-at-least-one-new-person quota by having a conversation with one new person, m
-i went to brunch on the 2nd (?) day, the food was not good. I talked to a man that had the appearence of a Myron, so I will refer to him as Myron. I bought some Igbo learning books and a handheld cat game with vocab cards
+i went to brunch on the 2nd (?) day, the food was not good. I talked to a man that had the appearence of a Myron, so I will refer to him as Myron. The speaker during the morning panel asked the audience to discuss with their neighbor whether it was valid to expect a man to provide in a relationship (typically Nigerian discussion topics), and that is when Myron introduced himself. I don't remember much of the conversation except that I said the phrase "The Art of Leisure." Don't we all desire a life of leisure and luxury. So much so that we will watch content of trad wives making their strange foods in their pristine kitchens with their stiff smiles. There's an art to the presentation of leisure that we love to consume. I think that was what went through my mind. 
+
+After the event, there was a marketplace outside with different vendors selling clothes, jewelry, and other goods. I bought some Igbo learning books and a handheld cat game with vocab cards from [@ChetaIgbo](https://www.instagram.com/chetaigbo/), who you should all follow, share, and support, because they are doing the lord's work in passing down the Igbo language to the next generation. Actually, I have been embarking on a journey to learn my parent's language, which has been bumpy considering my lack of knowledge, but wha
 
 ---
 
