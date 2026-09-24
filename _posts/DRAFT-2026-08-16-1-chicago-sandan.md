@@ -39,19 +39,18 @@ After the event, there was a marketplace outside with different vendors selling 
 
 ***
 
-From McCormick place me, my sister, and her husband made our way to Washington Park for the annual Bud Billiken Parade. Unbelievably, even though am I native of the Chicago suburbs, it was my first time attending. There is nothing more distinctly Chicago than this day in August - the warm summer sun, children enjoying the days before school begins, the parade floats passing by, bursts of cheers and music. I bought an italian sausage and fried rice from a mom and pop tent on the side of the parade route. The sausage was grilled to perfection and coated in barbecue sauce. I could have an italian sausage everyday if I was living in the city. Was this my sign to move back? 
+From McCormick place me, my sister, and her husband made our way to Washington Park for the annual Bud Billiken Parade. Unbelievably, even though am I native of the Chicago suburbs, it was my first time attending. On the way to the parade route, there were tents set up by various local organizations, and we stopped by a few and got some free goodies, tote bags, luggage tags, and the like. At the Aetna tent I twirled with a hulu hoop and they gave me a medal! The last time I got a medal had to have been during my high school days. Maybe I will finally fulfill my obligation as an elder Gen Z woman a run a marathon, so I can get an even fancier medal.
+
+As we headed to the main parade area, we saw Lisa Raye (the Lisa Raye) driving around on a golf cart. My sister and I followed like fans trying to snap a picture. Embarrasing, but so what? Does Lisa Raye come around every day? 
+
+There is nothing more distinctly Chicago than this day in August - the warm summer sun, children enjoying the days before school begins, the parade floats passing by, bursts of cheers and music. At the parade grounds, I bought an italian sausage and fried rice from a mom and pop tent on the side of the parade route. The sausage was grilled to perfection and coated in barbecue sauce. I could have an italian sausage everyday if I was living in the city. Was this my sign to move back? 
 
 Eric arrived as the parade began to wind down. He was dressed like a very professional man, which is still jarring to me because I still think of him as a goofy high schooler, not a  very professional man. In conversation with my sister, she came to the realization that she had no idea Eric had been a _student_ at the Illinois Mathematics and Science Academy, not a residence counselor (in fact - that was a different Eric). What a shock for her to learn this man had been one of my classmates and he was 24, soon to be 25, not 34. Not that he ever looked 34 - she just believed that for the past 7 years? I'm not sure how such a critical piece of misinformation came to pass as fact, but the situation has been rectified nonetheless.
 
 The sanitation services began to clean the streets almost immediately after the parade ended. Eric and I departed the grounds, and as we left, a crowd of teens began running to witness I fight that was brewing. Instinct almost pulled me into the commotion, but logic overrided. The police began running towards the mix, yelling. The entire scene was, like the parade, very summertime Chicago. 
 
- i went to the bud biliken parade, unbelievably it was my first time attending. i won a medal from Aetna acting silly with hula hoops. what will i do with said medallion? no idea. also got a first aid kit. and i saw Lisa Raye?
+I ended up getting pulled into Eric's move from his Bronzeville apartment to his new place in the South Loop. Cassius ("Cash") was also there to assist with the move. All of us had attended the same high school years ago, although Eric was a grade above us. I can't say I talked to Cash during high school, but I was glad to see him doing well (he is now a mental health professional), and I felt like the three of us had a good dynamic as a temporary trifecta. For a while, Cash kept apologizing to Eric for an unfortunate oversight on his part. The situation: Eric likes a girl (At the time, he refused to admit it clearly. But he very much liked this girl.). We'll call her Daria. Eric met Daria at work, and my understanding is they had mutual work crushes on each other, although Eric was unaware, and being the cautious man he is (aware of the delicacies of workplace daliances, and an ardent advocate of the autonomy of women), he didn't pursue the relationship beyond friendship. Daria arranged for some coworkers to give him a sign, a push to pursue, and thus, they went on two official/unofficial date-dates. Now, my understanding of the situation is, Eric invited Daria to a trivia night in which Cash was also attending. And (this is my understanding) - Cash, being a go-getter, being a pursuant gentleman (shooter's shoot!), approached Daria with romantic intent. I can say now, that Daria rejected Cash's proposition (being that Eric and Daria are now intensely involved), BUT at the time, the state of the relationship was murkier. Eric was not offended by Cash's approach (being that he never informed Cash of his romantic interest towards Daria beforehand), because, as he said many times, "If she wants him, she was never mine in the first place." Cash, however, felt like he broke an unspoken rule of male friendship, and was incredibly apolegetic. My thoughts? I was surprised to see men so worried about disrespect in this realm - maybe I've inhaled too much "man-hating" propaganda, but I figured it was a dog-eat-dog world - may the best win. I'd be upset if one of my homegirls pursued my crush, but what could I do? Everyone has free will. It was all interesting debate - where should the line be drawn when it comes to romantic pursuit? Who is off limits? In any case, Eric's new apartment is spacious and luxorious, so I'm happy for him. 
 
-taking the bus, the warm summer sun, sweat filled air, children enjoying the days before school begins. i bought an italian sausage and fried rice from a mom and pop tent on the side of the parade. the sausage was perfect, coated in barbecue sauce, hearty, grilled to perfection. the sanition services began to clean after the parade ended with swiftness. a crowd of teens and tweens gathered to witness a fight. off of instinct i almost followed, but logic told me not too. the entire scene was very chicago. do i want to live in chicago, or is it just summertime?
-
-i'd met up with Eric who was dressed like a professional man. my sister revealed that for years she though eric was one of the residence counselors back at imsa, and i'd just kept in touch with him. what a shock for her to learn this man had been a classmate and he was 24 not 34. not that he ever looked 34. she's believed that for the past 7 years by the way? i'm not sure how such a critical piece of misinformation came to pass as fact,
-
-eric's got a new apartment! its nice
 
 What did Cash say in the car when i was discussing my so-called-love-life? (1) all the best guys have an on-again-off-again thing on the side (2) you've got to go through the rain to appreciate the sunshine
 
@@ -62,42 +61,43 @@ he says he feels a lot of love for tihem, but that (transitive?) verb, "in", hol
 
 ---
 
-(it turns out i have a low tolerance for fucking chorizo - binging pepto bismo)
-
-airport observations on the way to san diego:
-an older black man wrapped in loose fitting plastic (thinking of that scene with Jules)
-Young ish man, athletic, backpack with only a change of clothes and a bible
+I headed back to the convention center again to wrap up my time at UIU. However, there were a serious of mishaps that almost spoiled the night. First, my brother's car was near-totaled by a flood some days ago, and it was left there after my Dad tried to fix it. This resulted in a visit to the house from the sheriff, which confused and terrified my brother and Grandmother at home. Luckily, nothing came out of it (the car was moved days later). In addition, that night my Dad experienced a severly low blood sugar rate that resulted in hospitalization. He was fine, but the suddenness of the event and the fact that he didn't see it coming (when he usually does), stressed the entire family out. I sat outside the banquet hall looking frazzled, eating a pizza puff, and taking the events on the evening in. I asked a group of girls walking by when dinner would be served, and I'm sure I looked insane, because they looked at me as if I was insane. I wanted to take the train home, but my Mom insisted that my sister and I attend the final banquet at the event and have fun, trusting that everything was fine. So my sister relunctantly returned to the convention center and we went to the banquet, late, so we'd missed the food, although we did see the singer [name] and her spirited band. Overall, the convention was an experience, a mostly good one, and I would attend again, I'd just make more of an effort to get involved with the ongoing activities.
 
 ---
 
-observation on a drive with fabie: the park by the house doesn't have any lights, so at night it looks like a smudge? a blindspot? a cataract in the landscape, a hole punched in the surrounding dusk, a brushstroke of black
+On Sunday my cousins came over for our annual "cousin hang." Being that we are the "new adults," my sister and I felt that we are responsible for showing our cousins a good time and encouraging some level of family bonding, especially considered most of the family is back in Nigeria. What I learned about them today is that the youngest boy is 15 not 12, and he is in varsity track as a 100m sprinter. The eldest girl is excited for college, has a roommate picked out, and likes to dance to K-pop tracks. She also cooks an excellent mac and cheese! We had an impromptu race outside on the neighborhood streets - because when you hang out with your cousins, you're required to compete in _something_, of course - and mr.varsity sprinter won (of course). We thought of ordered Beggar's pizza but when we saw the price ($80 for 2 family size pizzas) we opted for frozen pizzas, which actually came out pretty good and there was leftovers for the next day. Although I doubt they see me as the "cool cousin," I think our hangout went well. 
 
 ---
 
-i thought i missed the plane snacks but the nice lady with beautiful locs came back around - _would you like a drink?_
+I was on the way to San Diego. Sitting in O'Hare, I noticed a man wrapped in loose fitting plastic, sleeping. Maybe it was one of those plastic ponchos? It reminded me of Euphoria (maybe spoilers?), that one scene with Jules and the weird man wrapping her in plastic. I saw another man, young and athletic, carrying a backpack that only held a change of clothes and a bible. He scrolled his phone occasionally, but mostly looked down intensely at his folded hands. Where was he headed? Perhaps a bible was all he needed to make that leap of faith through the air.
 
-headlines that arrived as i landed: an earthquake in colombia, kim kardashian hidden hills home evacuated
+I fell asleep as soon as I boarded. I woke up in a panic, thinking I missed the snacks, but then a nice lady with beautiful locs came back around and asked _Would you like a drink?_ Yes. Yes I would like a Diet Coke.
 
-the book i am reading says there's no such thing as wealth hoarding. i'm inclined to disagree. she's like billionaires are billionaires because they wanted it more. no i disagree
+The book I'm reading says there's no such thing as wealth hoarding, that billionaires are billionaires because they wanted it more. What a load of shit.
+
+A flood of headlines arrived when I landed: An earthquake in Colombia, Kim Kardashian's home in Hidden Hills evacuated, Trump hides in a cart for a secret flight out of Turkey. 
+---
+
+San Diego was a big blur of beaches and fluffy dogs. I only spent a night there and it was worth it. Emma was in town all the way from the UK for a conference, and Grace was there and Annie too (there were some unfortunate delays in her arrival but! She made it!). What I learned from Grace is that Del Mar is not a part of San Diego but a seperate, ritzy town. In Del Mar I bought a beachy dress from a small botique. The owner said she used to live in University Park (south of Chicago) and remarked that it was quite boring - this is true. The dress was too expensive but I liked it, so I decided I deserved it.  
+
+In San Diego they surf or skateboard during P.E. In San Diego they do their senior ditch days on the beach. In San Diego it's often cooler by the shore and their are towering trees lining the street to the university, and in San Diego the university has new dorms that are tall and fancy and modern. That is where Grace and I picked up Emma, a dorm that was much too fancy for some freshmen to live in, but maybe since I have graduated college, times have changed, and schools have to do more to impress and recruit kids to attend. 
+
+I learned from Grace that La Jolla is pronounced "La-Hoy-A" Not "La Jol-la." And it is very offensive to say "La Jol-La." Me, Grace, and Emma went to the beach in "La-Hoy-A," and I wore my new dress and touched the sea for the first time, and it was cool, and the sand was squishy and wet under my feet. But sitting by the shore on our blanket writing, with the wind blowing calm and the seagulls harassing bikini-clad broads, I understood, somewhat, the appeal of the ocean. Like, I could hear the sea calling to me, quietly. how to pass technical interviews according to Emma: imagine all the possible solutions. 
+
+For dinner we went to a ramen place in Mera Mesa, where I did not indulge in the ramen, instead having entirely too much karaage. Good chicken. I thought the restaurant had a Michelin star, it did not, but it's on some list made by Michelin. All this to say it was good.
 
 ---
 
-how to pass technical interviews according to Emma: imagine all the possible solutions. become God.
-labs are hiring!
+I was happy when Annie arrived even though I could only spend a few hours with her. We went to a restaurant in downtown San Diego that felt very hole-in-the-wall, and their portions were huge - Emma got a taco the size of her head. Again I had chorizo, this time in a sandwich - good in the moment, but a mistake. Then we walked around the pier and got one good group picture. When I got to the airport my stomach gnawed at my insides again. Longest plane ride ever! I reached my apartment and took an evening nap. I had work the next day, and I had no travel plans scheduled until the end of the year. It was the end of vacation, and therefore, the beginning of locking in.
 
----
 
-headline: trump was said to have hidden in a catering cart and taken a military jet for a secret flight out of turkey last month
 
----
 
 grace the San Diego Local Tour Guide: there is a difference between Del Mar and Sandiego. in San Diego they surf or skateboarding during PE. in san diego they do senior ditch day on the beach.
 
----
 
-my cousins came over for our annual cousin hangout. i have learned that the younger boy is not 12 but around 15 and entering the 10th grade. he is also varsity on the track team (sprinting). 
-whats moer cousin then having an impromptu race from mailbox to light pole on the neighborhood streets. Of course, mr. varsity won.
-we shared our talents: theras dances and she is going to college soon. we almost paid $70 for 2 pizzas but we went to walmart and got pizzaria uno and home run inn 4 pizzas for $30. i was happy everything worked out. it was a weird weekend with dad having that low blood sugar episode and franklin's car stopping and the visit from the sheriff. but it all worked out.
+become God.
+labs are hiring!
 
 ---
 
@@ -115,31 +115,7 @@ overall, i understand the appeal of san dag much better now
 
 ---
 
-sometimes i felt like an outsider looking in (at UIU), i probably need to attend with a group next time.
-i went to brunch on the 2nd (?) day, the food was not good. I talked to a man that had the appearence of a Myron, so I will refer to him as Myron. I bought some Igbo learning books and a handheld cat game with vocab cards
-
----
-
-afterwards i went to the bud biliken parade, unbelievably it was my first time attending. i won a medal from Aetna acting silly with hula hoops. what will i do with said medallion? no idea. also got a first aid kit. and i saw Lisa Raye?
-
-taking the bus, the warm summer sun, sweat filled air, children enjoying the days before school begins. i bought an italian sausage and fried rice from a mom and pop tent on the side of the parade. the sausage was perfect, coated in barbecue sauce, hearty, grilled to perfection. the sanition services began to clean after the parade ended with swiftness. a crowd of teens and tweens gathered to witness a fight. off of instinct i almost followed, but logic told me not too. the entire scene was very chicago. do i want to live in chicago, or is it just summertime?
-
-i'd met up with Eric who was dressed like a professional man. my sister revealed that for years she though eric was one of the residence counselors back at imsa, and i'd just kept in touch with him. what a shock for her to learn this man had been a classmate and he was 24 not 34. not that he ever looked 34. she's believed that for the past 7 years by the way? i'm not sure how such a critical piece of misinformation came to pass as fact,
-
-eric's got a new apartment! its nice
-
-What did Cash say in the car when i was discussing my so-called-love-life? (1) all the best guys have an on-again-off-again thing on the side (2) you've got to go through the rain to appreciate the sunshine
-
-how to intepret it, the storm obscures the destination but the path beckons, just follow.. i don't know where the LOML will appear but it will be like a dream
-i asked Eric: do you feel platonically in love with your male friends
-he says he feels a lot of love for tihem, but that (transitive?) verb, "in", holds a lot of meaning, there's a commitment when you add that "in" and its scary to claim that, there's a certain boldness to it
-
----
-
-i was happy to hang out with Aryan, we made a pact, the "if we're 30 something with no prospects, let's just have kids together" and I realized there's nobody in the world that i would like to co-parent with more than her. can i find the traits of Aryan in a potential husband? that level of genius and humor is severly uncommon.
-
----
-
 men and women are not that far apart. nobody likes it when you go for somebody they like. somewhow we've ended back on the subject of euphoria, how's McKay doing
+
 
 
