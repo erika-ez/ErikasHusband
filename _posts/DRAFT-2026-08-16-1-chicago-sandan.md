@@ -94,40 +94,12 @@ San Diego was a 48-hour blur of beaches and fluffy dogs. Emma was in town all th
 
 In San Diego they surf or skateboard during P.E. In San Diego they do their senior ditch days on the beach. In San Diego it's often cooler by the shore and there are towering trees lining the street on the way to the university, and in San Diego the university has new dorms that are tall and fancy and modern. That is where Grace and I picked up Emma, at a dorm that was much too fancy for some freshmen to live in, but maybe since I have graduated college, times have changed, and schools have to do more to impress and recruit kids to attend. 
 
-I learned from Grace that La Jolla is pronounced "La-Hoy-A" Not "La Jol-la." And it is very offensive to say "La Jol-La." Me, Grace, and Emma went to the beach in "La-Hoy-A," and I wore my new dress and touched the sea for the first time, and it was cool, and the sand was squishy and wet under my feet. But sitting by the shore on our blanket writing, with the wind blowing calm and the seagulls harassing bikini-clad broads, I understood, somewhat, the appeal of the ocean. Like, I could hear the sea calling to me, quietly. how to pass technical interviews according to Emma: imagine all the possible solutions. 
+I learned from Grace that La Jolla is pronounced "La-Hoy-A" Not "La Jol-La." And it is very offensive to say "La Jol-La." Me, Grace, and Emma went to the beach in "La-Hoy-A," and I wore my new dress and touched the sea for the first time. It was cool, and the sand was squishy and wet under my feet. I sat by the shore writing in my notebook, with the calm wind blowing and the seagulls harassing bikini-clad broads, and I understood, somewhat, the appeal of the ocean. I could hear the sea calling to me, or maybe whispering. Something Emma said in regard to technical interviews: imagine all the possible solutions. Never again will I do a job interview at my desk. Instead I will rest by the sea and hope that it passes all knowledge to my brain in ocean waves.
 
 For dinner we went to a ramen place in Mera Mesa, where I did not indulge in the ramen, instead having entirely too much karaage. Good chicken. I thought the restaurant had a Michelin star, it did not, but it's on some list made by Michelin. All this to say it was good.
 
----
+***
 
-I was happy when Annie arrived even though I could only spend a few hours with her. We went to a restaurant in downtown San Diego that felt very hole-in-the-wall, and their portions were huge - Emma got a taco the size of her head. Again I had chorizo, this time in a sandwich - good in the moment, but a mistake. Then we walked around the pier and got one good group picture. When I got to the airport my stomach gnawed at my insides again. Longest plane ride ever! I reached my apartment and took an evening nap. I had work the next day, and I had no travel plans scheduled until the end of the year. It was the end of vacation, and therefore, the beginning of locking in.
-
-
-
-
-grace the San Diego Local Tour Guide: there is a difference between Del Mar and Sandiego. in San Diego they surf or skateboarding during PE. in san diego they do senior ditch day on the beach.
-
-
-become God.
-labs are hiring!
-
----
-
-what happened in san diego: 
-beach dress is expensive. "you should model" says the lady at the desk trying to convince me to buy her product. she previously lived in university park and said it was boring - true!
-walking howard, a fluffy white dog who is very attached to his mom, even in old age
-is it true - this was my first time touching the sea?
-really great chicken in mera mesa ramen place
-no night prowling activities this time around - fine by me
-fancy dorm where emma is staying at UC San Diego
-quirky mexican restaurant with hugeee tacos
-brief annie sighting
-walking familiar path by the shore
-overall, i understand the appeal of san dag much better now
-
----
-
-men and women are not that far apart. nobody likes it when you go for somebody they like. somewhow we've ended back on the subject of euphoria, how's McKay doing
-
+I was happy when Annie arrived even though we could only spend a few hours together. We went to a restaurant in downtown San Diego that felt very hole-in-the-wall, and their portions were huge - Emma got a taco the size of her head. Again, I had chorizo, this time in a sandwich - good in the moment, but a mistake. Then we walked around the pier and got one (and only one) good group picture. When I got to the airport, my stomach gnawed at my insides again. Longest plane ride ever... I reached my apartment and took an evening nap. I had work the next day, and I had no travel plans scheduled until the end of the year. It was the end of vacation, and therefore, the beginning of locking in.
 
 
