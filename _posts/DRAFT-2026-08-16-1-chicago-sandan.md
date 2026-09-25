@@ -68,6 +68,7 @@ The last thing I can say about love is the "in" is a challenging word when appen
 
 maya - thinks love is temporary (with the in)
 joyce - you dont feel platonically in love (its not real, its fleeting)
+the in is a giving - to give yourself - but should it last forever
 
 
 ***
