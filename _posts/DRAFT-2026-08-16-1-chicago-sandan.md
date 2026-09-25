@@ -79,7 +79,7 @@ What did Cash say in the car when i was discussing my so-called-love-life? (1) a
 how to intepret it, the storm obscures the destination but the path beckons, just follow.. i don't know where the LOML will appear but it will be like a dream
 i asked Eric: do you feel platonically in love with your male friends
 he says he feels a lot of love for tihem, but that (transitive?) verb, "in", holds a lot of meaning, there's a commitment when you add that "in" and its scary to claim that, there's a certain boldness to it
-
+media - in love is a bold declaration, plot device
 
 ---
 
