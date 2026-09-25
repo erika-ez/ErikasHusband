@@ -64,13 +64,12 @@ There something Cash said in the car, when I was discussing my-so-called-love-li
   (2) You've got to go through the rain to appreciate the sunshine
 I hope the first point isn't true. Actually, I hope the second point isn't true either. What counts as rain anyway? The storm obscures the destination, but the path beckons, just follow... I don't know where it leads, but I have to trust in the tendencies of nature to lead me to sunny skies.
 
-The last thing I can say about love is the "in" is a challenging word when appended to "love." To say "I love-" vs. "I'm in love-" triggers two different reactions in many people. During a conversation with Raul, he noted with no hesitation that he is (platonically) _in_ love with his male friend(s). When I asked Eric, he hesitated on the _in._ I could clearly see the (platonically) _in_ 
+The last thing I can say about love is the "in" is a challenging word when appended to "love." To say "I love-" vs. "I'm in love-" triggers two different reactions in many people. During a conversation with Raul, he noted with no hesitation that he is (platonically) _in_ love with his male friend(s). When I asked Eric, he hesitated on the _in._ In my eyes, between Cash and Eric, the platonic _in_ was visible in their actions - Cash volunteering to help Eric move, and the supportive dynamic that exists between that. But to make that leap is difficult. I thought it was just a man thing - societal standards, toxic masculinity, etc., but when I asked Maya and Joyce how they felt about _in,_ there was a visceral reaction to the _in love_ compared to just _love._ Maya thinks to feel/be _in love_ is a temporary feeling, one that emerges in the best of moments, but it is not something that just happens and can be freely and casually declared. Joyce feels that to be _in love_ is a mirage, a fleeting feeling that requires someone to give themselves fully in a way that never lasts. To say _I'm in love_ is an omen of doom. 
 
 maya - thinks love is temporary (with the in)
 joyce - you dont feel platonically in love (its not real, its fleeting)
 the in is a giving - to give yourself - but should it last forever
 the in is a spear
-
 
 ***
 
@@ -81,7 +80,7 @@ i asked Eric: do you feel platonically in love with your male friends
 he says he feels a lot of love for tihem, but that (transitive?) verb, "in", holds a lot of meaning, there's a commitment when you add that "in" and its scary to claim that, there's a certain boldness to it
 media - in love is a bold declaration, plot device
 
----
+***
 
 I headed back to the convention center again to wrap up my time at UIU. However, there were a serious of mishaps that almost spoiled the night. First, my brother's car was near-totaled by a flood some days ago, and it was left there after my Dad tried to fix it. This resulted in a visit to the house from the sheriff, which confused and terrified my brother and Grandmother at home. Luckily, nothing came out of it (the car was moved days later). In addition, that night my Dad experienced a severly low blood sugar rate that resulted in hospitalization. He was fine, but the suddenness of the event and the fact that he didn't see it coming (when he usually does), stressed the entire family out. I sat outside the banquet hall looking frazzled, eating a pizza puff, and taking the events on the evening in. I asked a group of girls walking by when dinner would be served, and I'm sure I looked insane, because they looked at me as if I was insane. I wanted to take the train home, but my Mom insisted that my sister and I attend the final banquet at the event and have fun, trusting that everything was fine. So my sister relunctantly returned to the convention center and we went to the banquet, late, so we'd missed the food, although we did see the singer [name] and her spirited band. Overall, the convention was an experience, a mostly good one, and I would attend again, I'd just make more of an effort to get involved with the ongoing activities.
 
