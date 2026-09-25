@@ -59,6 +59,12 @@ Now, my understanding of the situation is, Eric invited Daria to a trivia night 
 
 Eric was not offended by Cash's approach (being that he never informed Cash of his romantic interest towards Daria beforehand), because, as he said many times, "If she wants him, she was never mine in the first place." Cash, however, felt like he broke an unspoken rule of male friendship, and was incredibly apolegetic. My thoughts? I was surprised to see men so worried about disrespect in this realm - maybe I've inhaled too much "man-hating" propaganda, but I figured it was a dog-eat-dog world - may the best win. I'd be upset if one of my homegirls pursued my crush, but what could I do? Everyone has free will. It was all interesting debate - where should the line be drawn when it comes to romantic pursuit? Who is off limits? In any case, Eric's new apartment is spacious and luxorious, so I'm happy for him. 
 
+There something Cash said in the car, when I was discussing my-so-called-love-life: 
+  (1) All the best guys have an on-again-off-again thing on the side
+  (2) You've got to go through the rain to appreciate the sunshine
+I hope the first point isn't true. Actually, I hope the second point isn't true either. What counts as rain anyway? The storm obscures the destination, but the path beckons, just follow... I don't know where it leads, but I have to trust in the tendencies of nature to lead me to sunny skies.
+
+
 ***
 
 What did Cash say in the car when i was discussing my so-called-love-life? (1) all the best guys have an on-again-off-again thing on the side (2) you've got to go through the rain to appreciate the sunshine
