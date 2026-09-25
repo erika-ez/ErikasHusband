@@ -64,6 +64,11 @@ There something Cash said in the car, when I was discussing my-so-called-love-li
   (2) You've got to go through the rain to appreciate the sunshine
 I hope the first point isn't true. Actually, I hope the second point isn't true either. What counts as rain anyway? The storm obscures the destination, but the path beckons, just follow... I don't know where it leads, but I have to trust in the tendencies of nature to lead me to sunny skies.
 
+The last thing I can say about love is the "in" is a challenging word when appended to "love." To say "I love-" vs. "I'm in love-" triggers two different reactions in many people. During a conversation with Raul, he noted with no hesitation that he is (platonically) _in_ love with his male friend(s). When I asked Eric, he hesitated on the _in._ I could clearly see the (platonically) _in_ 
+
+maya - thinks love is temporary (with the in)
+joyce - you dont feel platonically in love (its not real, its fleeting)
+
 
 ***
 
