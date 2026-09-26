@@ -4,6 +4,11 @@ author: Erika's Husband
 title: What Can I Say About Rain? (Nothing, Really)
 ---
 
+<figure style="text-align: center;">
+	<img src="{{ "assets/images/rainy_day.jpg" | relative_url }}" alt="A rainy day in the desert." style="max-width:100%; height:auto;">
+	<figcaption style="font-style: italic; font-size: 0.9em;">_I came, I saw, I came, I saw / I praise the Lord, then break the law / I take what's mine, then take some more / It rains, it pours, it rains, it pours_</figcaption>
+</figure>
+
 What can I say about rain? I'm not a fan. The whole experience of a rainy day is sensory overload. I don't like how it sticks to my hair. How it lands on the lenses of my glasses and causes an impossible blur. I can't see out my rearview mirror because back window doesn't have a wiper. The roads are slick. If I don't have an umbrella my clothes become soaking wet and heavy. If I do have an umbrella, it gets all wet and I don't know where to put it when I walk into say, a restaurant or a library. Put it on the floor, now that's soaked too. Can't put it on a chair. Don't want to hold it. And umbrellas are such awkward items, they don't quite fit in a bag, and if they do, they're not big enough to stop the rain from coating you. And I hate stepping in wet mud or puddles, it dirties my shoes (my lovely velvet docs don't deserve such treatment) and if I'm really unlucky, my socks get wet, and there is nothing worse than the feeling of wet socks. 
 
 If you wanted to torture me in way that's completely harmless yet excruciatingly uncomfortable: Force me to walk a long, but not too long, distance without an umbrella, in the pouring rain, and my socks are wet, and my hair is wet, and my bra is so tight the underwire is creating an imprint in my chest, and my glasses are smudged, and my pants are too short, and it's just a little too hot, and surely too humid, and my phone keeps ringing, and I can't find my keys, and my backpack is too heavy, etc, etc, etc.
