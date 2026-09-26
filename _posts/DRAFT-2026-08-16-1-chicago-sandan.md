@@ -1,6 +1,8 @@
 title: I hear the sea calling me
 Google analytics
 
+<me-cover-photo>
+  
 In all honesty, I wasn’t looking forward attending the Umu Igbo Unite conference, an annual event organized to bring together young adults of the Nigerian Igbo diaspora. The tickets were expensive and I didn’t know anyone else going. Would I fit in with the crowds of beautiful, Instagram worthy Igbo women? I thought of backing out, but my sister convinced me to attend and offered to go with me. She’d attended some years back and described it as a transformative (and fun) experience. The tickets were nonrefundable, but at least I’d have a buddy with me. Reluctantly, I caught yet another flight home. Since the conference was in the city, I could attend during the day and stay home at night, so I wouldn’t need to spend money on a hotel. A win is a win, I suppose.
 
 ***
