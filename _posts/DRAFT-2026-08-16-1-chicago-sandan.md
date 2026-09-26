@@ -129,7 +129,7 @@ On Sunday my cousins came over for our annual "cousin hang." Being that we are t
 
 I was on the way to San Diego. Sitting in O'Hare, I noticed a man wrapped in loose fitting plastic, sleeping. Maybe it was one of those plastic ponchos? It reminded me of Euphoria (maybe spoilers?), that one scene with Jules and the weird man wrapping her in plastic. I saw another man, young and athletic, carrying a backpack that only held a change of clothes and a bible. He scrolled his phone occasionally, but mostly looked down intensely at his folded hands. Where was he headed? Perhaps a bible was all he needed to make that leap of faith through the air.
 
-I fell asleep as soon as I boarded. I woke up in a panic, thinking I missed the snacks, but then a nice lady with beautiful locs came back around and asked _Would you like a drink?_ Yes. Yes I would like a Diet Coke.
+I fell asleep as soon as I boarded. I woke up in a panic, thinking I missed the snacks, but then a nice lady with beautiful locs came back around and asked _Would you like a drink?_ Yes. Yes, I would like a Diet Coke.
 
 I'm still reading _Ask and it is Given,_ and now the author is saying there's no such thing as wealth hoarding, that billionaires are billionaires because they wanted it more. Girl, what are you saying??
 
@@ -141,12 +141,22 @@ San Diego was a 48-hour blur of beaches and fluffy dogs. Emma was in town all th
 
 In San Diego they surf or skateboard during P.E. In San Diego they do their senior ditch days on the beach. In San Diego it's often cooler by the shore and there are towering trees lining the street on the way to the university, and in San Diego the university has new dorms that are tall and fancy and modern. That is where Grace and I picked up Emma, at a dorm that was much too fancy for some freshmen to live in, but maybe since I have graduated college, times have changed, and schools have to do more to impress and recruit kids to attend. 
 
-I learned from Grace that La Jolla is pronounced "La-Hoy-A" Not "La Jol-La." And it is very offensive to say "La Jol-La." Me, Grace, and Emma went to the beach in "La-Hoy-A," and I wore my new dress and touched the sea for the first time. It was cool, and the sand was squishy and wet under my feet. I sat by the shore writing in my notebook, with the calm wind blowing and the seagulls harassing bikini-clad broads, and I understood, somewhat, the appeal of the ocean. I could hear the sea calling to me, or maybe whispering. Something Emma said in regard to technical interviews: imagine all the possible solutions. Never again will I do a job interview at my desk. Instead I will rest by the sea and hope that it passes all knowledge to my brain in ocean waves.
+I learned from Grace that La Jolla is pronounced "La-Hoy-A" Not "La Jol-La." And it is very offensive to say "La Jol-La." Me, Grace, and Emma went to the beach in "La-Hoy-A," and I wore my new dress and touched the sea for the first time. It was cool, and the sand was squishy and wet under my feet. I sat by the shore writing in my notebook, with the calm wind blowing and the seagulls harassing bikini-clad broads, and I understood, somewhat, the appeal of the ocean. I could hear the sea calling to me, or maybe whispering. Something Emma said in regards to technical interviews: _imagine all the possible solutions_. Never again will I do a job interview at my desk. Instead I will rest by the sea and hope that it passes all knowledge to my brain in ocean waves.
+
+<figure style="text-align: center;">
+	<img src="{{ "assets/images/san-dan-dinner.JPEG" | relative_url }}" alt="Dinner at Mensho Ramen in San Diego." style="max-width:75%; height:auto;">
+	<figcaption style="font-style: italic; font-size: 0.9em;">Dinner at Menya Ultra in San Diego.</figcaption>
+</figure>
 
 For dinner we went to a ramen place in Mera Mesa, where I did not indulge in the ramen, instead having entirely too much karaage. Good chicken. I thought the restaurant had a Michelin star, it did not, but it's on some list made by Michelin. All this to say it was good.
 
 ***
 
-I was happy when Annie arrived even though we could only spend a few hours together. We went to a restaurant in downtown San Diego that felt very hole-in-the-wall, and their portions were huge - Emma got a taco the size of her head. Again, I had chorizo, this time in a sandwich - good in the moment, but a mistake. Then we walked around the pier and got one (and only one) good group picture. When I got to the airport, my stomach gnawed at my insides again. Longest plane ride ever... I reached my apartment and took an evening nap. I had work the next day, and I had no travel plans scheduled until the end of the year. It was the end of vacation, and therefore, the beginning of locking in.
+<figure style="text-align: center;">
+	<img src="{{ "assets/images/group_photo.JPEG" | relative_url }}" alt=Reunited in San Diego." style="max-width:75%; height:auto;">
+	<figcaption style="font-style: italic; font-size: 0.9em;">Reunited in San Diego.</figcaption>
+</figure>
+
+I was happy when Annie arrived the next day even though we could only spend a few hours together. We went to Pokez Mexican, a restaurant in downtown San Diego that felt very hole-in-the-wall, and their portions were huge - Emma got a taco the size of her head. Again, I had chorizo, this time in a sandwich - good in the moment, but a mistake. Then we walked around the pier and got one (and only one) good group picture. When I got to the airport, my stomach gnawed at my insides again. Longest plane ride ever... I reached my apartment and took an evening nap. I had work the next day, and I had no travel plans scheduled until the end of the year. It was the end of vacation, and therefore, the beginning of locking in.
 
 
