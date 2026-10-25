@@ -1,4 +1,9 @@
 9/12 (?) 9/18
+What is the first thing you think about when you wake up in the morning? What is the last thing you think about at night? That is your devotion - what occupies your mind subconsciously. Wake up and work. Spend the day working, crafting, perfecting. Spend the nights dreaming of more. That is what I imagine 
+
+I'm sure the actors and actreeses of the Phoenix Theatre Company's production of 
+
+I 
 i understand theatre kids/adults
 i understand the obsession now
 because in the end, it is an obsession and dedication to the perfection of craft/art to put on such on production
