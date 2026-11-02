@@ -5,7 +5,8 @@ It is of upmost importance that I immerse myself in the output of creatives. It'
 
 ---
 _[Sometime in September]_
-I understand theatre kids now, the memorization of the songs, the constant outbursts of music, cosplay, long Reddit threads, general obsession. I understand it all after seeing _Les Misérables_ at the Phoenix Theatre Company.
+
+I understand theatre kids now, the memorization of the songs, the constant outbursts of music, cosplay, long Reddit threads, general obsession. I understand it all after seeing _Les Misérables_ at the Phoenix Theatre Company. This time, I went with Johnny and his friend Jean to the production. On the stage, I was witness to the dedication to perfection, watching the actors transition between pivotal moments through song and dance. The highlight to me was Éponine's heartache - a woman written to be destroyed by unfulfilled desire. It's not often that woman are written to lose - usually it's men we see stuck in the "friendzone." I was happy/sad to see Éponine pine endlessly, and ultimately, die without achieving romantic love. Happy because I love to see woman characters experience emotions that are relatable. Sad, because to see her demise on the stage in the arms of Marius hurt my heart, she was loved by him, but it would never be in the way she wanted - did this make her selfish, to ask for something he couldn't give? The musical always ends the same, with her broken heart. Poor Éponine! 
 
 I'm sure the actors and actreeses of the Phoenix Theatre Company's production of 
 
