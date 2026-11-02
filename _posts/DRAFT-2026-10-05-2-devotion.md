@@ -6,16 +6,11 @@ It is of upmost importance that I immerse myself in the output of creatives. It'
 ---
 _[Sometime in September]_
 
-I understand theatre kids now, the memorization of the songs, the constant outbursts of music, cosplay, long Reddit threads, general obsession. I understand it all after seeing _Les Misérables_ at the Phoenix Theatre Company. This time, I went with Johnny and his friend Jean to the production. On the stage, I was witness to the dedication to perfection, watching the actors transition between pivotal moments through song and dance. The highlight to me was Éponine's heartache - a woman written to be destroyed by unfulfilled desire. It's not often that woman are written to lose - usually it's men we see stuck in the "friendzone." I was happy/sad to see Éponine pine endlessly, and ultimately, die without achieving romantic love. Happy because I love to see woman characters experience emotions that are relatable. Sad, because to see her demise on the stage in the arms of Marius hurt my heart, she was loved by him, but it would never be in the way she wanted - did this make her selfish, to ask for something he couldn't give? The musical always ends the same, with her broken heart. Poor Éponine! 
+I understand theatre kids now, the memorization of the songs, the constant outbursts of music, cosplay, long Reddit threads, general obsession. I understand it all after seeing _Les Misérables_ at the Phoenix Theatre Company. This time, I went with Johnny and his friend Jean to the production. On the stage, I was witness to the dedication to perfection, watching the actors transition between pivotal moments through song and dance. The highlight to me was Éponine's heartache - a woman written to be destroyed by unfulfilled desire. It's not often that woman are written to lose - usually it's men we see stuck in the "friendzone." I was happy/sad to see Éponine pine endlessly, and ultimately, <details><summary> Spoilers! die without achieving romantic love. Happy because I love to see woman characters experience emotions that are relatable. Sad, because to see her demise on the stage in the arms of Marius hurt my heart, she was loved by him, but it would never be in the way she wanted - did this make her selfish, to ask for something he couldn't give? The musical always ends the same, with her broken heart. </summary></details> Poor Éponine! 
 
-I'm sure the actors and actreeses of the Phoenix Theatre Company's production of 
+My favorite actors/actresses of the night were Tre Moore as Marius, whose carefully portrayed the dueling love he shared for Cosette and Éponine. Also, Ethan Rogers as Jean Valjean, who looked good... but also portrayed Valjean with the humility and courage that is present in his character.
 
-I 
-i understand theatre kids/adults
-i understand the obsession now
-because in the end, it is an obsession and dedication to the perfection of craft/art to put on such on production
-i wish i could transition through life's pivotal moments in song and dance and lights
-getting up 4am just for the vibes though? no more of that!
+I haven't seen a musical since high school maybe, and I was nervous I wouldn't know what was going on, but I kept up just fine. The orchestra, barely visible under the stage deck, was immersive and cascading, and even though I couldn't understand every lyric, the emotions of each scene were easy to discern. I probably should not have gotten up at 4am that day though!
 
 -
 
