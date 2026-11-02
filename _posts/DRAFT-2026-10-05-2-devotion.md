@@ -1,5 +1,11 @@
 9/12 (?) 9/18
-What is the first thing you think about when you wake up in the morning? What is the last thing you think about at night? That is your devotion - what occupies your mind subconsciously. Wake up and work. Spend the day working, crafting, perfecting. Spend the nights dreaming of more. That is what I imagine 
+What is the first thing you think about when you wake up in the morning? What is the last thing you think about at night? That is your devotion - what occupies your mind subconsciously. Wake up and work. Spend the day working, crafting, perfecting. Spend the nights dreaming of more. Seriously. What are you willing to give for a dream? What are you willing to sacrifice?
+
+It is of upmost importance that I immerse myself in the output of creatives. It's why I'm constantly listening to music or reading - by internalizing the fruits of other's labor, I hope that it will propel me to enter my own state of creativity, to produce admirable work, any work actually, nobody has to like it, but it has to exist for anyone to form an opinion at all. The hardest part is getting starting, forcing myself past my own inhibitions and hesitations - will this writing be good, will it be worth it at all - questions that I ignore, put pen to paper. The 2nd hardest part is finishing. I can start drafts upon drafts, but crafting a body until it stands on its on is where I find trouble. Yes, that is why I declared October, Blogtober. Pretend it's still Blogtober. 
+
+---
+_[Sometime in September]_
+I understand theatre kids now, the memorization of the songs, the constant outbursts of music, cosplay, long Reddit threads, general obsession. I understand it all after seeing _Les Misérables_ at the Phoenix Theatre Company.
 
 I'm sure the actors and actreeses of the Phoenix Theatre Company's production of 
 
