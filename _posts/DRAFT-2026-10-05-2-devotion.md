@@ -18,7 +18,8 @@ After seeing Les Misérables, I stopped by my house and then headed to Glendale 
 
 When Maya performed, I again could understand the lure of the pole. The way you could manipulate physics, bend bodies, build momentum, and propel yourself - I could tell, although her routine was carefully put together, there was a sense a freedom evoked, no bashfulness, no shyness, no hiding, just a real body in motion. Maya's routine was one only she could do, a fusion of Jamaican and Black culture, along with her own sense of style. There were elements of her dancing that I'd seen glimpses of when we'd went out to clubs, and gravity defying motions on the pole, when she pushed herself upwards and contorted in a way that defied gravity. The work that she had put in, for many months, all came together that night, and yet, she made it look effortless. And that is the art of devotion.
 
-Afterwards, Maya, Lanae, Joyce, and I took a group picture and headed out to _Thirsty Lion_ for a celebratory dinner. Filling my car was a song I had been listening to some years ago, that had randomly come to mind: _get out of my head._ 
+Afterwards, Maya, Lanae, Joyce, and I took a group picture and headed out to _Thirsty Lion_ for a celebratory dinner. Filling my car was a song I had been listening to some years ago, that had randomly come to mind: _get out of my head._ Immediately, I searched for meaning? These lyrics Last night I had another dream about you
+How many fuckin' dreams must I have about you?
  
 when it comes down to it, i idolize devotion and with devotion comes sacrifice and suffering (i idolize this too?)
 mary's devotion to her son -> jesus's devotion to humanity -> is it my catholic upbringing
