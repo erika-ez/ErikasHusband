@@ -21,39 +21,6 @@ When Maya performed, I again could understand the lure of the pole. The way you 
 Afterwards, Maya, Lanae, Joyce, and I took a group picture and headed out to _Thirsty Lion_ for a celebratory dinner. Filling my car was a song I had been listening to some years ago, that had randomly come to mind: _get out of my head._ Immediately, I searched for meaning? The lyrics reverberating through the speakers, _Last night I had another dream about you / How many fuckin' dreams must I have about you? / Moving on, trying hard to get away / From your face, your taste,_ what does it all say about me? That I think of this song now? As an (amateur) litterateur and software engineer, analysis is my daily state of being. The curtains are never just blue. But what if the curtains didn't exist at all? What if I could be free of labor of thinking, and, like bodies swirling on metal, flow freely?
 
 -
-when it comes down to it, i idolize devotion and with devotion comes sacrifice and suffering (i idolize this too?)
-mary's devotion to her son -> jesus's devotion to humanity -> is it my catholic upbringing
-devoted people inspire me
-when i say 90 day run, it is not a cage or a deadline, but something to occupy my mind
-something to devote myself to
-for better or for worse
+_Some days later..._
 
--
-Pole (dancing) & the alter ego (nice)
-the physics of bending bodies - momentum, propel yourself (propulsion?)
-there was a 47 year old woman, she looked amaze, her zipper got stuck, she did her routine again, amazing
-yes, choreo requires some level of routine/rigidness - but there was  a sense of freedom amongst each performer - bodies moving freely - no bashfulness, shyness, demureness, just real bodies in motion!
-just like years ago, september 2021, i'm listening to the song: get out of my head on repeat lol
-(what was i concerned about that year? who was in my head?)
-also, paradise pole is celebrating their 5 year anniversery
-we went to a restaurant afterwards
-as a litterateur, SWE, and mediocre economist
-i cant help but analyze/look for meaning in everything, incl. my actions
-but what if it doesn't have to mean anything/everything? like a body, swirling/spinning on metal 
-can i flow freely?
-
--
-
-bodies in motion - today we phenomenal black women moved joyce's things to her new apartment
-the laborious task was a practice in using our bodies for practical purposes, sweat and tears, hot sun stabbing our skin (but! not as hot as august)
-i can't help but love how phoenix dips lightly into fall, how good those low 90's feel (i dont care what anybody says it feels great)
-a nice man with sparkling stud earring, fresh cut, tattoos, assisted with the move (some)
-lanae guarded his subway sandwiches with her life
-maya drove the moving truck
-once we finished moving everything from apt -> truck -> garage -> new apt
-lanae and I moped on the couch for a while (waiting for maya to find her phone, joyce to return the moving truck)
-we were so hungry, lamented being hungry (bodies shoot our hunger cues)
-then joyce came home and began to arrange, it was already looking like a lived in apt
-finally - maya arrives - we eat!
-in mesa, a chinese restaurant in mekong plaza , hugeee portions thank you joyce
-who is the most neurodivergent ? we discussed. its me, im not arguing!
+Today, we phenomenal Black women (Joyce, Maya, Lanae, and I) moved the last of Joyce's belongings to her new apartment. The laborious task was an exercise in using our bodies for practical purposes, through sweat, through tears, through the hot (but not too hot - I love how Phoenix dips lightly into fall. Those low 90's feel blissful, and I will argue with no one about this.) sun stabbing our skin. In the middle of moving, a nice man with a sparkling stud earring, fresh haircut, and tattoos generously assisted us with lifting some furniture into the truck. It seemed he had just went on a lunch run, and Lanae guarded his Subway sandwich with her life. Did I ask "smash or pass" in the elevator as he left? Maybe so! Did he hear? Hopefully not! Maya drove the moving truck to the new apartment, and once we finally moved everything from truck to garage, Lanae and I moped on the couch, waiting for Maya, who took off to retrieve her misplaced phone, and Joyce, who was returning the moving truck. We had worked so hard and time was moving so slowly, hunger was eating us alive, it seemed like the minutes had turned into days, and there was nothing left to do but lament the emptiness we felt, until finally the girls returned, and we went down to Mesa for a masterful dinner. We sat at a Chinese restaurant in Mesa's Mekong Plaza, where I ordered a platter of noodles that was an absurd portion. The experience felt oddly nostalgic, but I brushed off those wispy feelings. Then, we went to a shaved ice cream shop for dessert, where we discussed who was the most neurodivergent in our group. Regardless of any complaints or disagreements, I have decided that it is me!
